@@ -23,4 +23,4 @@
 <a href="mailto:mayas.saringan@gmail.com">Gmail</a>•
 <a href="https://www.linkedin.com/in/msaringan/">Linkedin!</a>
 
-![Maya's Github Stats](https://github-readme-stats.vercel.app/api?username=MayaSaringan&hide=contribs,prs,stars,issues&count_private=true&show_icons=true)
+![Maya's Github Stats](https://github-readme-stats.vercel.app/api?username=MayaSaringan&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&theme=panda)
