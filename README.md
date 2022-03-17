@@ -1,6 +1,6 @@
 ## Hi 🙂! I'm Maya 🙋🏻
 
-### I'm a Software Developer working at WarnerMedia, You.i TV Platform!
+### I'm a Software Engineer working at Salesforce, Tableau!
 
 ---
 
